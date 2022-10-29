@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "Student in Statistics"
-  footer: "&copy; [Jingqi Zhu](https://jingqi-zhu.netlify.app/) 2022 | [Github](https://github.com/JingqiZhu)"
+  footer: "&copy; [Jingqi Zhu](https://jingqi-zhu.netlify.app) 2022 | [Github](https://github.com/JingqiZhu)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
