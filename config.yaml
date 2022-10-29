@@ -30,8 +30,8 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "Student in Statistical Science"
-  footer: "&copy; [Yihui Xie](https://jingqi-zhu.netlify.app/ | [Github](https://github.com/JingqiZhu)"
+  description: "Student in Statistics"
+  footer: "&copy; [Jingqi Zhu](https://jingqi-zhu.netlify.app/) 2022 | [Github](https://github.com/JingqiZhu)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
