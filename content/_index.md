@@ -2,12 +2,16 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/JingqiZhu)
 
-I am a master student in statistics at UCL. Before that, I completed my BSc in Mathematics and Statistics (first class) at University of Manchester. The program was a 2+2 joint program with Beijing Institute of Technology.
+I am a master student in AI for biomedicine and healthcare at UCL. Before that, I completed my MSc Statistics at UCL and BSc Mathematics and Statistics (first class) at University of Manchester.
 
 
 ## Academic Projects
+
+- Modelling Treatment Effect Waning on Survival Extrapolation in Health Economic Evaluation, MSc Statistics dissertation, Jun. 2023 - Sep. 2023. [[Report]](TrtWaningSurvExtrap.pdf)
+[[Slides]](Slides_TrtWaningSurvExtrap.pdf)
+
 - Statistical Detection of SARS-CoV-2 Variants based on PCR, summer project, Jul. 2022 - Sep. 2022. [[Report]](Statistical_Detection_of_SARS_CoV_2_Variants_based_on_PCR_1022.pdf)
 
 - Bayesian Analysis via Markov Chain Monte Carlo, double semester project (20 credits), Oct. 2021 - Jun. 2022. [[Report]](10807240_Bayesian_analysis_via_MCMC.pdf) [[Slides]](Slides_MCMC.pdf)
